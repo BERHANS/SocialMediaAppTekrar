@@ -1,0 +1,4 @@
+rootProject.name = 'SocialMediaAppTekrar'
+include 'AuthMicroService'
+include 'UserMicroService'
+
